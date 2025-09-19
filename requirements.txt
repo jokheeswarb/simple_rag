@@ -1,0 +1,5 @@
+sentence-transformers==2.7.0
+transformers==4.44.2
+huggingface_hub==0.24.6
+faiss-cpu==1.8.0.post1
+streamlit==1.38.0
